@@ -1,0 +1,12 @@
+Makefile.in
+COPYING
+INSTALL
+aclocal.m4
+autom4te.cache
+compile
+config.guess
+config.sub
+depcomp
+install-sh
+missing
+configure
